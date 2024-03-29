@@ -1,0 +1,6 @@
+~ Sematic HTML
+~ Hover and active states using pseudo selectors
+~ Specificity
+~ Compound selectors (and when to avoid them)
+~ inline-block
+~ Mutiple classes on 1 element
